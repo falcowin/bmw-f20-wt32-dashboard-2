@@ -1,0 +1,36 @@
+# Compilazione
+build/
+.pio/
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Env
+.env
+.env.local
+
+# Debug
+*.gdb
+core.dump
+
+# Logs
+*.log
+logs/
+
+# Temporanei
+temp/
+tmp/
+*.tmp
+
+# Dipendenze PlatformIO
+.platformio/
